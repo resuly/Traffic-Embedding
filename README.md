@@ -1,1 +1,3 @@
-# embedding
+### Embedding model for the categorical data in traffic
+
+More details are coming soon...
