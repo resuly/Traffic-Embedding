@@ -1,6 +1,6 @@
 ### The embedding model for categorical data analysis in transport.
 
-This repository contains the related codes of the paper 'Revealing the hidden features in traffic prediction via entity embedding'. Please see this blog for more information:
+This repository contains the related codes of the paper 'Revealing the hidden features in traffic prediction via entity embedding'. Please see this blog for more information:http://resuly.me/2020/02/18/embedding-in-transport/
 
 
 
@@ -11,7 +11,6 @@ To run the embedding model, you will need to install PyTorch environment and run
 `python train.py --model EM`
 
 See the results in `experiments/EM`
-
 
 
 If you think this is helpful to your research, please consider citing our work:
