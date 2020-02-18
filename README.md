@@ -15,7 +15,7 @@ See the results in `experiments/EM`
 
 If you think this is helpful to your research, please consider citing our work:
 
-`
+```
 @article{wang2019revealing,
   title={Revealing the hidden features in traffic prediction via entity embedding},
   author={Wang, Bo and Shaaban, Khaled and Kim, Inhi},
@@ -24,4 +24,4 @@ If you think this is helpful to your research, please consider citing our work:
   year={2019},
   publisher={Springer}
 }
-`
+```
