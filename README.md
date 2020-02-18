@@ -2,7 +2,7 @@
 
 This repository contains the related codes of the paper 'Revealing the hidden features in traffic prediction via entity embedding'. Please see this blog for more information:http://resuly.me/2020/02/18/embedding-in-transport/
 
-
+![](cover.png)
 
 The main code located in the `model` folder and the visualization works can be found in `visualization`.
 
