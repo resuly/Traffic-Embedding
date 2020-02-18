@@ -4,7 +4,7 @@ This repository contains the related codes of the paper 'Revealing the hidden fe
 
 
 
-The main code located in `model` folder, and the visualization works can be found in `visualization`.
+The main code located in the `model` folder and the visualization works can be found in `visualization`.
 
 To run the embedding model, you will need to install PyTorch environment and run the following command:
 
@@ -25,4 +25,3 @@ If you think this is helpful to your research, please consider citing our work:
   publisher={Springer}
 }
 `
-
